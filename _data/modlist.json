@@ -42,18 +42,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Weapons Expanded - Heavy Weapons",
     "steamId": null,
@@ -72,12 +60,6 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Grenades",
     "steamId": null,
@@ -94,6 +76,24 @@
     "name": "Vanilla Factions Expanded - Deserters",
     "steamId": "3025493377",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
+    "name": "Vanilla Factions Expanded - Classical",
+    "steamId": "2787850474",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
   },
   {
     "author": "CE Team",
@@ -147,7 +147,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.10.0"
+    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
   },
   {
     "author": "Telefonmast",
@@ -163,12 +163,6 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dub's Paint Shop",
-    "steamId": "1579516669",
-    "version": "1.1.7359"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
     "version": "1.0.0"
@@ -180,16 +174,10 @@
     "version": "1.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.4"
+    "version": "11.0.5"
   },
   {
     "author": "Jaxe",
@@ -213,7 +201,7 @@
     "author": "Mlie",
     "name": "Mark That Pawn",
     "steamId": "3056996662",
-    "version": "1.5.1"
+    "version": "1.5.13"
   },
   {
     "author": "Haplo",
@@ -258,22 +246,16 @@
     "version": "2024.0.1.20"
   },
   {
-    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
-    "name": "Vanilla Factions Expanded - Classical",
-    "steamId": "2787850474",
-    "version": "1.0.0.0"
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.5.0.4"
-  },
-  {
-    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
+    "author": "Linq",
+    "name": "Psychology (unofficial) v1.1-1.5",
+    "steamId": "2016263135",
+    "version": "1.0.7"
   },
   {
     "author": "Krkr",
@@ -452,12 +434,6 @@
   {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
     "version": null
   },
@@ -663,7 +639,7 @@
     "author": "Oskar Potocki and Neronix17",
     "name": "Vanilla Races Expanded - Saurid",
     "steamId": "2880990495",
-    "version": "1.0.8853.29490"
+    "version": "1.0.9134.15252"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -674,7 +650,7 @@
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
-    "steamId": "2854967442",
+    "steamId": "3400246558",
     "version": "1.0.0.0"
   },
   {
@@ -732,12 +708,6 @@
     "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
   },
   {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
     "name": "Vanilla Vehicles Expanded - Tier 3",
     "steamId": null,
@@ -746,8 +716,8 @@
   {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
+    "steamId": "2454918354",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki",
@@ -765,7 +735,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8911.30668"
+    "version": "1.0.9113.26296"
   },
   {
     "author": "Andreas Pardeike",
@@ -798,22 +768,10 @@
     "version": null
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.5.10.0"
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Props and Decor",
     "steamId": "2102143149",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and SmashPhil",
-    "name": "Vanilla Weapons Expanded - Makeshift",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Uuugggg",
@@ -837,7 +795,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.5.0"
+    "version": "1.5.5"
   },
   {
     "author": "Helixien",
@@ -993,19 +951,13 @@
     "author": "Mlie",
     "name": "Show Mod Updates",
     "steamId": "3218690663",
-    "version": "1.5.9"
+    "version": "1.5.13"
   },
   {
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
-    "version": "1.5.3"
-  },
-  {
-    "author": "Ushanka",
-    "name": "Ushankas Biological Warfare",
-    "steamId": "3221550806",
-    "version": "1.0.0.0"
+    "version": "1.5.5"
   },
   {
     "author": "Kikohi and Oskar Potocki",
@@ -1017,7 +969,7 @@
     "author": "Sl4vP0weR",
     "name": "We Are United",
     "steamId": "3030804445",
-    "version": "1.0.0+636df7db4f9ae4fb82d9b1328576fb302ae22020"
+    "version": "1.0.0+b276df0654b4f932c4a98816c5a157c7632daaca"
   },
   {
     "author": "Owlchemist",
@@ -1030,6 +982,36 @@
     "name": "Basic Double Doors",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Arquebus and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Bioferrite",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Vehicles Expanded - Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Arquebus and Taranchuk",
+    "name": "Vanilla Temperature Expanded",
+    "steamId": "3202046258",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Sarg Bjornson and xrushha",
+    "name": "Vanilla Recycling Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Lycanthrope",
+    "steamId": "3114453100",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -1046,7 +1028,49 @@
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
-    "steamId": "2009500580",
+    "steamId": "",
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Smart Farming",
+    "steamId": "3220129183",
+    "version": "1.5"
+  },
+  {
+    "author": "Nimrag",
+    "name": "Scenario Searchbars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.7.0.0"
+  },
+  {
+    "author": "Helixien and Oracle of Thessia",
+    "name": "ReBuild: Doors and Corners",
+    "steamId": "3262718980",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.8.7"
+  },
+  {
+    "author": "tk421storm",
+    "name": "Priority Treatment Ressurected",
+    "steamId": "3009738919",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager (Continued)",
+    "steamId": "3306654341",
+    "version": "1.5.5"
   }
 ]
