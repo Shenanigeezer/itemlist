@@ -7,16 +7,16 @@
       "price": 20
     },
     {
-      "abr": "ambrosia",
-      "category": "Drugs",
-      "defname": "Ambrosia",
-      "price": 25
-    },
-    {
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
       "price": 88
+    },
+    {
+      "abr": "luciferium",
+      "category": "Drugs",
+      "defname": "Luciferium",
+      "price": -10
     },
     {
       "abr": "penoxycyline",
@@ -1492,7 +1492,7 @@
       "abr": "cassowary",
       "category": "Animals",
       "defname": "Cassowary",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "cougar",
@@ -1690,7 +1690,7 @@
       "abr": "ibex",
       "category": "Animals",
       "defname": "Ibex",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "deer",
@@ -1768,7 +1768,7 @@
       "abr": "arcticfox",
       "category": "Animals",
       "defname": "Fox_Arctic",
-      "price": 300
+      "price": -10
     },
     {
       "abr": "psychicsensitizer",
@@ -7306,7 +7306,7 @@
       "abr": "seal",
       "category": "Animals",
       "defname": "AEXP_Seal",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "walrus",
@@ -7360,7 +7360,7 @@
       "abr": "alligator",
       "category": "Animals",
       "defname": "AEXP_Alligator",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "indianelephant",
@@ -9862,13 +9862,13 @@
       "abr": "boomachicken",
       "category": "Animals",
       "defname": "GR_Boomachicken",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "boomffalo",
       "category": "Animals",
       "defname": "GR_Boomffalo",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "boomwolf",
@@ -9994,7 +9994,7 @@
       "abr": "boomhorse",
       "category": "Animals",
       "defname": "GR_Boomhorse",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "chickenhorse",
@@ -13936,7 +13936,7 @@
       "abr": "alphabeaver",
       "category": "Animals",
       "defname": "Alphabeaver",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "alphabeavermeat",
@@ -14410,13 +14410,13 @@
       "abr": "arcticcoyote",
       "category": "Animals",
       "defname": "AEXP_ArcticCoyote",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "arcticwolf",
       "category": "Animals",
       "defname": "Wolf_Arctic",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "ark",
@@ -14446,19 +14446,19 @@
       "abr": "awakenedbarkskindryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Barkskin",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "awakenedberrymakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Berrymaker",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "awakenedcarrierdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Carrier",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "awakenedclawerdryad",
@@ -14476,13 +14476,13 @@
       "abr": "awakenedmedicinemakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Medicinemaker",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "awakenednectarmakerdryad",
       "category": "Animals",
       "defname": "VDE_AwakenedDryad_Nectarmaker",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "awakenedspitterdryad",
