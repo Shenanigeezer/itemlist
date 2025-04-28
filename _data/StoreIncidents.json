@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -21,24 +11,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "foggyrain",
-		"price": 300,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "drythunderstorm",
-		"price": 450,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "snowgentle",
@@ -49,11 +24,6 @@
 		"abr": "snowhard",
 		"price": 450,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "fog",
-		"price": 300,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "heatwave",
@@ -71,29 +41,19 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "volcanicwinter",
-		"price": 3200,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
@@ -116,11 +76,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
@@ -131,13 +86,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "madanimal",
-		"price": 200,
+		"abr": "psychicdrone",
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "ambrosiasprout",
-		"price": 150,
+		"abr": "psychicsoothe",
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -161,16 +116,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -191,6 +136,16 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -201,8 +156,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "predators",
-		"price": 2500,
+		"abr": "randomdisease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -234,6 +194,11 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveall",
@@ -336,15 +301,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 69
+	"total": 61
 }
