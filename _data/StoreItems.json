@@ -19,12 +19,6 @@
       "price": 88
     },
     {
-      "abr": "luciferium",
-      "category": "Drugs",
-      "defname": "Luciferium",
-      "price": -10
-    },
-    {
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
